@@ -2,7 +2,7 @@
 windows msvc2022 build for qt5.15.10
 
 # ATTENTION
- no qtwebengine,qtwebview,qtserialport,openssl!!!
+ no qtwebengine,qtwebview,qtserialport,openssl, examples,tools,tests,docs !!!
 
 my configure:
 
