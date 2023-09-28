@@ -1,4 +1,4 @@
-# qt_5_15_10_msvc
+# qt5.15-msvc-build-libs
 windows msvc build for qt5.15.10
 
 # ATTENTION
